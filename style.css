@@ -1,0 +1,698 @@
+.dhuwan{background-color: whitesmoke;}
+.kiunke{
+    background-color:rgb(12, 5, 207);
+    color: white;
+    height: 45px;
+}
+
+.fb{
+margin-left:  90px;
+padding-top: 08px;
+   }
+   .tw {
+       margin-left: 10px;
+       padding-top: 08px;
+   }
+   .insta{
+    margin-left: 10px;
+    padding-top: 08px;
+}
+.utube{
+    margin-left: 10px;
+    padding-top: 08px;
+}
+.wapp{
+    margin-left: 10px;
+    padding-top: 08px;
+}
+.aage{
+    margin-left: 75px;
+    color: white;
+    margin-top: 12px;
+    font-size: large;
+    position: absolute;
+}
+.donor{
+
+text-decoration: lime;
+
+position:absolute;
+margin-top:15px;
+padding-left: 10px;
+
+margin-left: 710px;
+cursor: pointer;
+
+
+}
+.donate{
+
+    text-decoration: lime;
+    margin-top:15px;
+    
+    padding-left: 10px;
+    margin-left: 810px;
+    cursor: pointer;
+    position:absolute;
+    
+    }
+    .smit{
+
+        text-decoration: lime;
+        
+        position:absolute;
+        margin-top:15px;
+        
+        margin-left: 920px;
+        padding-left: 10px;
+        
+        cursor: pointer;
+         }
+
+         .logo{
+             padding-left: 85px;
+             height: 40px;
+             width: 175px;
+             position: absolute;
+         }
+
+         .home{
+         
+        border-radius: 50%;
+        padding-top: 05px;
+        width: 80px;
+        height: 40px;
+        margin-left: 740px;
+        text-align: center;
+        background-color:blue;
+        color: white;
+        cursor: pointer;
+        min-width: 50px;
+        max-width: 130px;
+        
+         }
+         .home:hover{
+             background-color:blue;
+         }
+
+
+            .change{
+                 border-radius: 50%;
+        
+        width: 60px;
+        height: 30px;
+        
+        text-align: center;
+        background-color:whitesmoke ;
+        
+        cursor: pointer;
+        max-width: 130px;
+        min-width: 50px;
+ }
+.change:hover{background-color: blue;}
+
+
+
+.alag,.niklo,.wah,.kuch{
+    display: none;
+}
+
+            
+            .service{
+                border-radius: 50%;
+                
+                width: 120px;
+                height: 45px;
+    
+                text-align: center;
+                background-color:whitesmoke;
+                
+                cursor: pointer;
+                min-width: 50px;
+                max-width: 130px;
+
+            }
+            
+.service:hover{background-color: blue;}
+
+            .prhai .med .dont{
+padding-left: 6px;
+ }
+            select{border: none;}
+
+            .project{
+                border-radius: 50%;
+                
+                width: 110px;
+                height: 45px;
+    
+                text-align: center;
+                background-color:whitesmoke;
+                
+                cursor: pointer;
+                min-width: 50px;
+                max-width: 130px;
+
+
+            }
+            .project:hover{
+                background-color: blue;
+            }
+           
+            .media{
+
+                border-radius: 50%;
+                
+                width: 60px;
+                height: 30px;
+                border: none;
+                text-align: center;
+                
+                background-color:whitesmoke;
+                
+                cursor: pointer;
+                min-width: 30px;
+                max-width: 130px;
+                
+            }
+            .media:hover{background-color: blue;
+            border: none;}
+            
+
+            .news{
+
+                border-radius: 50%;
+                
+                width: 60px;
+                height: 30px;
+                border:none;
+                text-align: center;
+                background-color:whitesmoke;
+                
+                cursor: pointer;
+                min-width: 30px;
+                max-width: 130px;
+                
+            }
+            .news:hover{background-color: blue;
+                border: none;}
+              
+                .tion{
+
+                    border-radius: 50%;
+                    
+                    width: 80px;
+                    height: 40px;
+                    margin-top:2px;
+                    text-align: center;
+                    background-color:whitesmoke;
+                    position: absolute;
+                    cursor: pointer;
+                    min-width: 30px;
+                    max-width: 130px;
+                    
+                }
+                .tion:hover{background-color: blue;
+                    border: none;}
+
+                    
+.init{padding-left: 52px;
+    color: white;
+    background-color: darkblue;
+    width: 1294px;
+    ;
+}
+
+.MIX{
+    color:green;
+}
+span{color:BLUE;
+}
+
+
+
+p{
+    
+    color:grey;
+    font-size:large;
+    width:1000px;
+    text-align:justify;
+    padding-left:150px;
+}
+.start{
+
+    margin-left: 185px;
+}
+.agli{
+    margin-left: 274px;
+}
+.teen{
+
+
+margin-left: 285px;
+}
+.chauka{
+    margin-left: 225px;
+}
+
+
+
+.THORA{margin-left: 125px;
+       color:white;
+       font-family: serif;
+       position: absolute;
+       font-size: 45px;
+       }
+       .ronaldo{margin-left: 474px;
+        color:white;
+        font-family: serif;
+        position: absolute;
+        font-size: 45px;
+        
+        }
+        
+            
+            .sancho{
+                color:white;
+                font-family: serif;
+                position: absolute;
+                margin-left: 796px;
+                font-size: 45px;
+                }
+                .mbappe{
+                    color:white;
+                    font-family: serif;
+                    margin-left: 1045px;
+                    font-size: 45px;
+                }
+                    
+                .daily{margin-left: 50px;
+                    color:white;
+                    font-family: serif;
+                    position: absolute;
+                    font-size:20px;
+                
+
+                }
+                .monthly,.mon,.moni,.mona{color:rgb(11, 245, 11);}
+
+
+                .adoption{
+                    margin-left: 420px;
+                    color:white;
+                    font-family: serif;
+                    position: absolute;
+                    font-size:20px;
+
+                }
+                .medical{
+                    margin-left: 770px;
+                    color:white;
+                    font-family: serif;
+                    position: absolute;
+                    font-size:20px;
+
+
+                }
+                .prho{
+                    margin-left: 1020px;
+                    color:white;
+                    font-family: serif;
+                    position: absolute;
+                    font-size:20px;
+                }
+                .messi{
+                    background-color:rgb(55, 55, 212)
+                }
+                .halka{padding-left: 1px;}
+
+                /* .session{margin-left: 300px;
+                position:absolute;}
+                .welfare{margin-left: 500px;
+                    position:absolute;
+
+
+                } */
+
+
+                .sadqah{
+                    margin-left: 120px;
+                }
+                .welfare{margin-left: 120px;}
+                .dawai{
+                    margin-left: 120px;
+                }
+                .kohli{
+                    
+                    margin-left: 63px;
+                    position: absolute;
+                    color: royalblue;
+                    
+                }
+                .babar{
+                    
+                    margin-left: 98px;
+                    position: absolute;
+                    color: royalblue;
+                }
+                .stokes{
+                    
+                    margin-left: 103px;
+                    position: absolute;
+                    color: royalblue;
+                }
+
+                .rest{
+
+                    margin-left: 124px;
+                }
+
+                .plant{
+
+                    margin-left: 127px;
+                }
+                .clg{
+
+                    margin-left: 132px;
+                }
+
+
+                .kfc{
+                    
+                    margin-left: 66px;
+                    position: absolute;
+                    color: royalblue;
+                }
+                .mcd{
+                    
+                    margin-left: 103px;
+                    position: absolute;
+                    color: royalblue;
+                }
+
+                .lab{
+                    
+                    margin-left: 98px;
+                    position: absolute;
+                    color: royalblue;
+                }
+                    
+                .daira{
+                    background-color: white;
+                    width: 340px;
+                    height: 200px;
+                    box-shadow: whitesmoke;
+                    margin-left: 160px;
+                    position: absolute;
+                }
+                
+                .second{
+                    width:340px;
+                    height:200px;
+                    margin-left: 560px;
+                    box-shadow: whitesmoke;
+                    position: absolute;
+                    background-color:white;
+                }
+         
+                .third{
+                    width:340px;
+                    height:200px;
+                    margin-left: 960px;
+                    box-shadow: whitesmoke;
+                    position: absolute;
+                    background-color:white;
+
+                }
+                .bacha{
+                    background-color:white;
+                    width: 340px;
+                    height: 200px;
+                    
+                    margin-left: 160px;
+                    position: absolute;
+                    
+                    box-shadow: whitesmoke;
+                }
+                .next{  background-color:white;
+                    width: 340px;
+                    height: 200px;
+                    position: absolute;
+                    box-shadow: whitesmoke;
+                    margin-left: 560px;
+                   
+                }
+                .bara{width:340px;
+                    height:200px;
+                    margin-left: 960px;
+                    box-shadow: whitesmoke;
+                    position: absolute;
+                    background-color:white;
+
+
+                }
+                
+                
+               
+                
+                
+            .hui{
+                position: absolute;
+                margin-left: 100px;
+                color:blue;
+            }
+            .sui{
+                position: absolute;
+                margin-left: 270px;
+                color: blue;
+            }
+            .nui{
+                position: absolute;
+                margin-left: 415px;
+                color:blue;
+            }
+            .uin{
+                position: absolute;
+                margin-left:870px;
+                color:blue;
+            }
+            .sin{
+                position:absolute;
+                margin-left:1015px;
+                color:blue;
+            }
+            .oil{
+                
+            margin-left: 870px;
+            position: absolute;
+
+            margin-top:-150px;
+            
+
+            }
+
+
+            .hep{
+                position: absolute;
+            
+                margin-left:20px;
+                margin-top: 20px;
+       
+            }
+            .hepe{
+                position: absolute;
+            margin-top:17px;
+                margin-left:20px;
+                
+       
+            }
+
+
+            .sath{
+                margin-left:80px;
+                position:absolute;
+                color:blue;
+                
+                
+            }
+            .sathi{
+
+                margin-left:80px;
+                position: absolute;
+                color:blue;
+            }
+            .sabhi{
+                background-color: white;
+                
+                
+            }
+            .jani{width:290px;
+            height:70px;
+            margin-left:90px;
+            margin-top:18px;
+            background-color: whitesmoke;
+            border:solid;
+            border-color: whitesmoke;
+            
+            
+            color:blue;
+            position:absolute;
+                   
+        }
+        .ghar{
+            width:290px;
+            height:70px;
+            margin-left:440px;
+            background-color: whitesmoke;
+            border:solid;
+            border-color: whitesmoke;
+            box-shadow:whitesmoke;
+            color:blue;
+            position:absolute;
+            margin-bottom:100px;
+        }
+        .luis{
+       
+            position:absolute;
+            
+            margin-left:25px;
+            margin-top:20px;
+            
+        }
+        .barca{
+    
+    margin-left: 90px;
+    
+        }
+        .comp{height: 70px;
+            width:295px;
+            background-color: whitesmoke;
+            margin-left: 90px;
+            margin-top:100px;
+            color:blue;
+            position: absolute;
+            }
+
+            .pique{
+
+                margin-left:24px;
+                margin-top:17px;
+                
+                position:absolute;
+            }
+            .madrid{
+
+margin-left:84px;
+position:absolute;
+
+color:blue;
+
+
+            }
+            .thar{
+                margin-left:439px;
+                height:70px;
+                width:295px;
+                background-color:whitesmoke;
+                margin-top:100px;
+                
+                
+            }
+
+
+            .tasweer{
+
+                color:blue;
+
+            }
+            .gallery{color:green;}
+
+
+
+
+            .set{
+           margin-left:100px; 
+           cursor:pointer;
+        }
+        .sett{
+            cursor:pointer;
+        }
+ 
+         
+         .setti{
+            cursor:pointer;
+ 
+         }
+         .settin{
+            
+            cursor:pointer;
+         }
+         .setting{
+            cursor: pointer;
+ 
+         }
+
+
+         .use{
+
+            margin-left:550px;
+            color:white;
+            margin-top:-03px;
+            position:absolute;
+
+         }
+          .con{
+            margin-left:900px;
+            color:white;
+
+
+
+          }
+
+
+
+
+         .fab{
+             margin-left:900px;
+         }
+         .tur{margin-left:04px;}
+         .turr{margin-left:04px;}
+         .turre{margin-left:04px;}
+
+
+         h4{
+             margin-left:100px;
+            position:relative;
+            bottom:40px;
+        }
+             .call,.mail{
+                 margin-left:100px;
+                 position:relative;
+                 top:5px;
+                 
+    
+                
+             }
+             .world{
+                 margin-left:20px;
+                 top:5px;
+                 position:relative;
+             }
+         
+
+             .black{background-color:rgba(0, 0, 0, 0.788);
+            color:white;}
+
+            #fin{
+                display: flex;
+                justify-items: right;
+                margin-left: 1250px;
+                color:yellow;
+            }
+             
+             
+             
+       
+           
+
+    
